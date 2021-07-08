@@ -1,0 +1,5 @@
+Credentials cache: API:74002FAE-04EA-4763-ACD1-D08C430ACE3F
+        Principal: rpol@42.FR
+
+  Issued                Expires               Principal
+Jun 29 11:21:27 2021  Jul  6 11:21:27 2021  krbtgt/42.FR@42.FR
